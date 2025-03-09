@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aritramondal503@gmail.com**
 
-- ⚡ Fun fact **I think I**
+- ⚡ Fun fact **I think I crack good jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
