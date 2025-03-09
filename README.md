@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/aritra-mondal-it/aritra-mondal-it/blob/main/_Profile%20LinkedIn%20Banner.gif)
+![MasterHead](https://github.com/aritra-mondal-it/aritra-mondal-it/blob/main/_Profile%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Aritra Mondal</h1>
 <h3 align="center">A passionate AI/ML enthusiast and graphic designer from Kolkata, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-mondal-it&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-mondal-it" /> </p>
