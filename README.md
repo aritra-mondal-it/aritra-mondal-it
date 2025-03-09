@@ -35,3 +35,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-mondal-it&show_icons=true&locale=en" alt="aritra-mondal-it" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-mondal-it&" alt="aritra-mondal-it" /></p>
+
+<div align="center">
+  
+  ![snake gif](https://github.com/aritra-mondal-it/aritra-mondal-it/blob/output/github-snake.svg)
+  
+</div>
+
