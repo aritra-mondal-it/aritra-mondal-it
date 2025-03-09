@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aritra Mondal</h1>
-<h3 align="center">A passionate AI/ML enthusiast, graphic designer from Kolkata, India</h3>
+<h3 align="center">A passionate AI/ML enthusiast and graphic designer from Kolkata, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2psaWIyZ2xwbWRpZTZla3JhcTNzMmJ6dDF6emluamVlY2Q1NWtzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-mondal-it&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-mondal-it" /> </p>
